@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ZAGIMORE_SHOPS_DW_SSIS", "ZAGIMORE_SHOPS_DW_SSIS\ZAGIMORE_SHOPS_DW_SSIS.dtproj", "{73810133-99BF-4380-986B-FA0C3F66BAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73810133-99BF-4380-986B-FA0C3F66BAA2}.Development|Default.ActiveCfg = Development
+		{73810133-99BF-4380-986B-FA0C3F66BAA2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF94FBD-9125-4DD5-B73D-269F16366853}
+	EndGlobalSection
+EndGlobal
